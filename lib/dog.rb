@@ -15,3 +15,6 @@ end
     @breed
   end
 end
+
+lassie = Dog.new 
+puts 
