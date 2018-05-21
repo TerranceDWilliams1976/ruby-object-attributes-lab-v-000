@@ -1,7 +1,15 @@
 class Dog 
-  def name()
+  def name(name)
+    
+end
+  
+  def name=(name)
+end
+
+  def breed()
+end
+
+  def breed=()
     
   end
-  
-  def name=()
 end
