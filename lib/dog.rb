@@ -7,9 +7,7 @@ end
     @name = breed
 end
 
-  def breed(breed)
-    @dog_breed = breed
-end
+  
 
   def breed=(
     @breed
