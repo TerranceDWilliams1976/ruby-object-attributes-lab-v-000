@@ -15,6 +15,3 @@ end
     @breed
   end
 end
-
-lassie = Dog.new 
-puts lassie.@name
