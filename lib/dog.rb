@@ -8,10 +8,10 @@ end
 end
 
   def breed(breed)
-    @breed
+    @breed = breed
 end
 
-  def breed=()
-    @breed = breed
+  def breed=(breed)
+    @breed
   end
 end
