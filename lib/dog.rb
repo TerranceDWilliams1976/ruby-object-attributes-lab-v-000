@@ -17,4 +17,4 @@ end
 end
 
 lassie = Dog.new 
-puts 
+puts lassie.@name
