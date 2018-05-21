@@ -7,11 +7,11 @@ end
     @name
 end
 
-  def breed=(breed)
-    @dog_breed = breed
+  def breed=(breed_name)
+    @breed = breed_name
 end
 
   def breed
-    @dog_breed
+    @breed
   end
 end
